@@ -1,10 +1,50 @@
-- 👋 Hi, I’m @frozenbullet25
-- 👀 I’m interested in Streaming and Gaming stuffs
-- 🌱 I’m currently learning Streaming
-- 💞️ I’m looking to collaborate on Gaming with brands
-- 📫 How to reach me contact me in my email
+# 👋 Hi, I'm Lemuel
 
-<!---
-frozenbullet25/frozenbullet25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a **Backend / Web Developer** focused on building clean, maintainable APIs using **ASP.NET Core** and **SQL Server**.  
+Currently strengthening my backend fundamentals and preparing for international opportunities.
+
+---
+
+## 🚀 Tech Stack
+- **Backend:** ASP.NET Core Web API, C#
+- **Frontend:** HTML, CSS, JavaScript
+- **Database:** SQL Server, MySQL
+- **ORM:** Entity Framework Core
+- **Architecture:** Clean Architecture (Controller / Service / Repository)
+- **Tools:** Git, GitHub, Swagger, Postman
+
+---
+
+## 📌 Featured Project
+### 🔹 ASP.NET Core CRUD API
+A RESTful Web API built with clean architecture principles.
+
+**Features:**
+- RESTful CRUD operations
+- SQL Server + Entity Framework Core
+- DTO mapping
+- Swagger (OpenAPI) documentation
+- Controller / Service / Repository pattern
+
+👉 Repo: https://github.com/YOUR_USERNAME/crud-api-aspnetcore
+
+---
+
+## 🧠 What I’m Currently Learning
+- Advanced ASP.NET Core Web API
+- SQL optimization
+- Authentication & Authorization (JWT)
+- Cloud deployment (Azure)
+
+---
+
+## 🎯 Goals
+- Become a strong backend developer
+- Build production-ready APIs
+- Work abroad as a software developer
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/ItsLMC24
+- Email: lemuelcastro255@gmail.com
