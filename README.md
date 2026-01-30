@@ -26,7 +26,7 @@ A RESTful Web API built with clean architecture principles.
 - Swagger (OpenAPI) documentation
 - Controller / Service / Repository pattern
 
-👉 Repo: https://github.com/YOUR_USERNAME/crud-api-aspnetcore
+👉 Repo: https://github.com/ItsLMC24/crud-api-aspnetcore
 
 ---
 
